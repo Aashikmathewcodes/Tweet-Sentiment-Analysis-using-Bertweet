@@ -1,0 +1,6 @@
+checkpoints/
+roberta-models/
+models/
+.DS_Store
+data/obama_cleaned.csv
+data/romney_cleaned.csv
